@@ -31,9 +31,5 @@
 - Tensorflow
 - Augmentor
 
-## Acknowledgements
-- This project was inspired by a case study from the Executive PG Programm in Machine Learning by IIIT Bengaluru
-
-
 ## Contact
 Created by [@Sk1499] - feel free to contact me!
